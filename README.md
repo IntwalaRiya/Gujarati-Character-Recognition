@@ -1,1 +1,1 @@
-# Gujarati-Character-Recognition
+Gujarati-Character-Recognition
